@@ -15,6 +15,8 @@ mod 'galera',
 
 # Used by mysql module (at least)
 mod 'nanliu/staging', "1.0.3"
+mod 'duritong/sysctl', "0.0.11"
+
 
 # Used by ntnusky/profile
 mod 'arioch/keepalived', "1.2.3"
