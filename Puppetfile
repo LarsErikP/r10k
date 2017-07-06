@@ -7,6 +7,7 @@ mod 'puppetlabs/inifile', "1.5.0"
 mod 'puppetlabs/mysql', "3.10.0"
 mod 'puppetlabs/stdlib', "4.12.0"
 mod 'puppetlabs/xinetd', "2.0.0"
+mod 'puppetlabs/firewall', "1.9.0"
 
 # Mysql cluster
 mod 'galera',
