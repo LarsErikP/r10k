@@ -10,6 +10,9 @@ mod 'puppetlabs/stdlib', "4.17.1"
 mod 'puppetlabs/xinetd', "2.0.0"
 mod 'puppetlabs/firewall', "1.9.0"
 mod 'puppet/unattended_upgrades', "2.2.0"
+mod 'puppetlabs/ntp', "4.1.2"
+mod 'puppetlabs/lvm', "0.6.0"
+mod 'puppetlabs/vcsrepo', "1.3.2"
 
 # Mysql cluster
 mod 'galera',
