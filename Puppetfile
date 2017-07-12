@@ -13,6 +13,8 @@ mod 'puppet/unattended_upgrades', "2.2.0"
 mod 'puppetlabs/ntp', "4.1.2"
 mod 'puppetlabs/lvm', "0.6.0"
 mod 'puppetlabs/vcsrepo', "1.3.2"
+mod 'puppetlabs/postgresql', "4.4.2"
+mod 'puppetlabs/puppetdb', "5.1.2"
 
 # Mysql cluster
 mod 'galera',
