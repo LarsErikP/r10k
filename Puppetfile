@@ -16,6 +16,7 @@ mod 'puppetlabs/vcsrepo', "1.3.2"
 mod 'puppetlabs/postgresql', "4.4.2"
 mod 'puppetlabs/puppetdb', "5.1.2"
 mod 'puppetlabs/java', "1.6.0"
+mod 'puppetlabs/rabbitmq', "5.6.0"
 
 # Mysql cluster
 mod 'galera',
