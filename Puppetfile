@@ -32,7 +32,7 @@ mod 'arioch/keepalived', "1.2.5"
 
 mod 'profile',
   :git => 'https://github.com/LarsErikP/profile.git',
-  :branch => 'master'
+  :branch => 'sensulab'
 
 # Munin
 mod 'ssm/munin', '0.1.0'
