@@ -42,4 +42,8 @@ mod 'saz/ssh', "3.0.1"
 mod 'saz/sudo', "4.2.0"
 mod 'ajjahn/network', "0.1.1"
 
-
+# Sensu
+mod 'sensu-sensu', '2.2.0'
+mod 'lwf-remote_file', '1.1.3'
+mod 'arioch-redis', '1.2.4'
+mod 'yelp-uchiwa', '1.0.1'
