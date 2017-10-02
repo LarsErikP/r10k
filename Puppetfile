@@ -48,4 +48,4 @@ mod 'ajjahn/network', "0.1.1"
 mod 'sensu-sensu', '2.2.0'
 mod 'lwf-remote_file', '1.1.3'
 mod 'arioch-redis', '3.1.0'
-mod 'yelp-uchiwa', '1.0.1'
+mod 'yelp-uchiwa'
