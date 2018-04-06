@@ -6,7 +6,7 @@ mod 'puppetlabs/apt', "2.4.0"
 mod 'puppetlabs/concat', "2.2.1"
 mod 'puppetlabs/inifile', "1.6.0"
 mod 'puppetlabs/mysql', "3.10.0"
-mod 'puppetlabs/stdlib', "4.17.1"
+mod 'puppetlabs/stdlib', "4.24.0"
 mod 'puppetlabs/xinetd', "2.0.0"
 mod 'puppetlabs/firewall', "1.9.0"
 mod 'puppet/unattended_upgrades', "2.2.0"
@@ -45,7 +45,7 @@ mod 'saz/sudo', "4.2.0"
 mod 'ajjahn/network', "0.1.1"
 
 # Sensu
-mod 'sensu-sensu', '2.2.0'
+mod 'sensu-sensu', '2.51.0'
 mod 'lwf-remote_file', '1.1.3'
 mod 'arioch-redis', '3.1.0'
 mod 'yelp-uchiwa', '2.0.0'
